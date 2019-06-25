@@ -1,0 +1,112 @@
+{
+  "name":"DefaultMap",
+  "size":[30,17],
+  "defaultTile": "Grass",
+  "tiles":[
+    {
+      "tileName":"Stone",
+      "xPos":0,
+      "yPos":0,
+      "extraConfig":[]
+    },
+    {
+      "tileName":"Stone",
+      "xPos":0,
+      "yPos":1
+    },
+    {
+      "tileName":"Stone",
+      "xPos":0,
+      "yPos":2
+    },
+    {
+      "tileName":"Stone",
+      "xPos":0,
+      "yPos":3
+    },
+    {
+      "tileName":"Stone",
+      "xPos":0,
+      "yPos":4
+    },
+    {
+      "tileName":"Stone",
+      "xPos":1,
+      "yPos":0
+    },
+    {
+      "tileName":"Stone",
+      "xPos":2,
+      "yPos":0
+    },
+    {
+      "tileName":"Stone",
+      "xPos":3,
+      "yPos":0
+    },
+    {
+      "tileName":"Stone",
+      "xPos":4,
+      "yPos":0
+    },
+    {
+      "tileName":"Stone",
+      "xPos":1,
+      "yPos":4
+    },
+    {
+      "tileName":"Stone",
+      "xPos":2,
+      "yPos":4
+    },
+    {
+      "tileName":"Stone",
+      "xPos":3,
+      "yPos":4
+    },
+    {
+      "tileName":"Stone",
+      "xPos":4,
+      "yPos":4
+    },
+    {
+      "tileName":"Stone",
+      "xPos":4,
+      "yPos":1
+    }
+  ],
+  "Objects" : [
+    {
+      "objectName": "Coin",
+      "xPos":7,
+      "yPos":7
+    },
+    {
+      "objectName": "Coin",
+      "xPos":10,
+      "yPos":7
+    },
+    {
+      "objectName": "Coin",
+      "xPos":12,
+      "yPos":14
+    },
+    {
+      "objectName": "Coin",
+      "xPos":1,
+      "yPos":8
+    },
+    {
+      "objectName": "Coin",
+      "xPos":20,
+      "yPos":6
+    }
+  ],
+  "People" : [
+    {
+    "xPos":3,
+    "yPos":1,
+    "id": "OldMan"
+    }
+  ]
+}
